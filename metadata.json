@@ -1,0 +1,6 @@
+{
+  "name": "e-moment.web.id",
+  "description": "Bespoke Photo & Fine Art Printing Lab — Kualitas Galeri Seni. Cetak foto premium, framed minimalis kayu jati, kanvas spanram, dan photobook dengan Direct WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
